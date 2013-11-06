@@ -1,7 +1,1 @@
-foovar wooo!
-wooo foovar
-ahiahiahi-
-yoyo
-123
-456
-789
+あいうえお
